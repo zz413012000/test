@@ -1,15 +1,18 @@
 [
   {
     "name":"google Pixel 3",
-    "price":27700
+    "price":27700,
+    "id":1
   },
   {
     "name":"Pixel Chromebook",
-    "price":12000
+    "price":12000,
+    "id":2
   },
   {
     "name":"Chromecast",
-    "price":1440
+    "price":1440,
+    "id":3
   }
 
 ]
